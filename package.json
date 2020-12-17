@@ -1,0 +1,12 @@
+{
+  "name": "node_and_the_http_module",
+  "version": "1.0.0",
+  "description": "Node http module example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Layla Hmidene",
+  "license": "ISC"
+}
