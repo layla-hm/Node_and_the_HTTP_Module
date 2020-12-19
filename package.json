@@ -8,5 +8,13 @@
     "start": "node index"
   },
   "author": "Layla Hmidene",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layla-hm/Node_and_the_HTTP_Module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/layla-hm/Node_and_the_HTTP_Module/issues"
+  },
+  "homepage": "https://github.com/layla-hm/Node_and_the_HTTP_Module#readme"
 }
